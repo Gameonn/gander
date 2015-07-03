@@ -1,0 +1,28 @@
+[11-Jun-2015 07:56:26 America/Chicago] PHP Warning:  Unterminated comment starting line 64 in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[11-Jun-2015 07:56:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[17-Jun-2015 06:48:40 America/Chicago] PHP Warning:  Unterminated comment starting line 64 in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[17-Jun-2015 06:48:41 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[18-Jun-2015 00:59:56 America/Chicago] PHP Warning:  Unterminated comment starting line 64 in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[18-Jun-2015 00:59:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[18-Jun-2015 01:00:55 America/Chicago] PHP Warning:  Unterminated comment starting line 64 in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[18-Jun-2015 01:00:55 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[18-Jun-2015 01:01:23 America/Chicago] PHP Parse error:  syntax error, unexpected ''us' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 454
+[18-Jun-2015 01:18:22 America/Chicago] PHP Warning:  Unterminated comment starting line 64 in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[18-Jun-2015 01:18:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[18-Jun-2015 01:18:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 441
+[18-Jun-2015 01:35:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 288
+[18-Jun-2015 02:35:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 153
+[18-Jun-2015 02:36:04 America/Chicago] PHP Fatal error:  Class 'DataClass' not found in /home3/codebrew/public_html/projects/gander/api/friend_photos.php on line 40
+[18-Jun-2015 02:36:10 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 442
+[18-Jun-2015 02:36:10 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 442
+[22-Jun-2015 05:33:50 America/Chicago] PHP Warning:  Unterminated comment starting line 64 in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[22-Jun-2015 05:33:50 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[22-Jun-2015 06:08:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 176
+[22-Jun-2015 06:29:33 America/Chicago] PHP Warning:  Unterminated comment starting line 64 in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[22-Jun-2015 06:29:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 64
+[22-Jun-2015 06:29:41 America/Chicago] PHP Parse error:  syntax error, unexpected ''pho' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 150
+[22-Jun-2015 06:29:43 America/Chicago] PHP Parse error:  syntax error, unexpected ''pho' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 150
+[22-Jun-2015 06:29:47 America/Chicago] PHP Parse error:  syntax error, unexpected ''pho' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 150
+[22-Jun-2015 07:36:54 America/Chicago] PHP Fatal error:  Class 'DataClass' not found in /home3/codebrew/public_html/projects/gander/api/friend_photos.php on line 40
+[22-Jun-2015 09:08:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 322
+[23-Jun-2015 02:28:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/gander/api/DataClass.php on line 163

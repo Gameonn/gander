@@ -1,0 +1,256 @@
+[28-Feb-2015 03:59:49 America/Chicago] PHP Warning:  stream_socket_client(): Unable to set private key file `/home3/codebrew/public_html/projects/gambay/easyapns/ck.pem' in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 03:59:49 America/Chicago] PHP Warning:  stream_socket_client(): failed to create an SSL handle in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 03:59:49 America/Chicago] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 03:59:49 America/Chicago] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 03:59:49 America/Chicago] PHP Notice:  Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 463)
+	5) APNS::_triggerError -> File: class_APNS.php (line 489)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 03:59:49 America/Chicago] PHP Notice:  A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 533)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 04:05:59 America/Chicago] PHP Notice:  Undefined property: APNS::$certificate in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 277
+[28-Feb-2015 04:05:59 America/Chicago] PHP Fatal error:  Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 50)
+	2) APNS::checkSetup -> File: class_APNS.php (line 218)
+	3) APNS::_triggerError -> File: class_APNS.php (line 277)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 04:06:38 America/Chicago] PHP Notice:  Undefined property: APNS::$certificate in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 277
+[28-Feb-2015 04:06:38 America/Chicago] PHP Fatal error:  Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 50)
+	2) APNS::checkSetup -> File: class_APNS.php (line 218)
+	3) APNS::_triggerError -> File: class_APNS.php (line 277)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 04:07:06 America/Chicago] PHP Notice:  Undefined property: APNS::$certificate in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 277
+[28-Feb-2015 04:07:06 America/Chicago] PHP Fatal error:  Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 50)
+	2) APNS::checkSetup -> File: class_APNS.php (line 218)
+	3) APNS::_triggerError -> File: class_APNS.php (line 277)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 04:07:49 America/Chicago] PHP Warning:  stream_socket_client(): Unable to set private key file `/home3/codebrew/public_html/projects/gambay/easyapns/ck.pem' in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 04:07:49 America/Chicago] PHP Warning:  stream_socket_client(): failed to create an SSL handle in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 04:07:49 America/Chicago] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 04:07:49 America/Chicago] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 04:07:49 America/Chicago] PHP Notice:  Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 463)
+	5) APNS::_triggerError -> File: class_APNS.php (line 489)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 04:07:49 America/Chicago] PHP Notice:  A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 533)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 04:24:01 America/Chicago] PHP Warning:  stream_socket_client(): Unable to set private key file `/home3/codebrew/public_html/projects/gambay/easyapns/ck.pem' in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 04:24:01 America/Chicago] PHP Warning:  stream_socket_client(): failed to create an SSL handle in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 04:24:01 America/Chicago] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 04:24:01 America/Chicago] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 04:24:01 America/Chicago] PHP Notice:  Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 463)
+	5) APNS::_triggerError -> File: class_APNS.php (line 489)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 04:24:01 America/Chicago] PHP Notice:  A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 533)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 04:37:47 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(14).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 04:37:47 America/Chicago] PHP Fatal error:  APNS responded with error for pid(14). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 05:09:48 America/Chicago] PHP Warning:  stream_socket_client(): Unable to set private key file `/home3/codebrew/public_html/projects/gambay/easyapns/ck.pem' in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 05:09:48 America/Chicago] PHP Warning:  stream_socket_client(): failed to create an SSL handle in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 05:09:48 America/Chicago] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 05:09:48 America/Chicago] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 487
+[28-Feb-2015 05:09:48 America/Chicago] PHP Notice:  Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 463)
+	5) APNS::_triggerError -> File: class_APNS.php (line 489)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[28-Feb-2015 05:09:48 America/Chicago] PHP Notice:  A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 533)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[03-Mar-2015 00:19:41 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(251).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[03-Mar-2015 00:19:41 America/Chicago] PHP Fatal error:  APNS responded with error for pid(251). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[03-Mar-2015 00:19:59 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(252).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[03-Mar-2015 00:19:59 America/Chicago] PHP Fatal error:  APNS responded with error for pid(252). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[03-Mar-2015 00:27:13 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(260).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[03-Mar-2015 00:27:13 America/Chicago] PHP Fatal error:  APNS responded with error for pid(260). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[03-Mar-2015 00:27:59 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(261).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[03-Mar-2015 00:27:59 America/Chicago] PHP Fatal error:  APNS responded with error for pid(261). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[03-Mar-2015 00:28:41 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(262).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[03-Mar-2015 00:28:41 America/Chicago] PHP Fatal error:  APNS responded with error for pid(262). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[09-Mar-2015 00:33:29 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(93).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[09-Mar-2015 00:33:29 America/Chicago] PHP Fatal error:  APNS responded with error for pid(93). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[09-Mar-2015 00:35:54 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(98).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
+[09-Mar-2015 00:35:54 America/Chicago] PHP Fatal error:  APNS responded with error for pid(98). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/gambay/easyapns/classes/class_APNS.php on line 703
